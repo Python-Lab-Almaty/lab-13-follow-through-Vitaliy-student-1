@@ -2,7 +2,7 @@
   "timestamp": "2026-05-03T14:31:27.050056+00:00",
   "hostname": "6a72fcc2c49b",
   "container": "lab-13-vitaliy",
-  "env": "docker",
+  "env": "DOCKER",
   "student_id": "vitaliy",
-  "lab_number": "13"
+  "lab_number": "11"
 }
